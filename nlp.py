@@ -1,3 +1,6 @@
+#Reference webpage:
+#https://rare-technologies.com/text-summarization-with-gensim/
+
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
